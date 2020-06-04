@@ -211,6 +211,9 @@ section
 {
 	float: right;
 }
+.user__form-color{
+	color: #495057 !important;
+}
 .trans_200
 {
 	-webkit-transition: all 200ms ease;
